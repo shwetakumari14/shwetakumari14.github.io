@@ -20,7 +20,7 @@ redirect_from:
 👩🏻‍💻 With three years of professional experience as a software engineer, I specialize in developing backend applications, REST APIs, microservices, data pipelines, and internal developer tools. My expertise extends to architectural enhancements, cloud infrastructure design and implementation, and optimizing large-scale applications for seamless performance across distributed systems with robust network infrastructures. </p>
 
 <p style='text-align: justify;'> 
-💻In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by strong communication abilitis. </p>
+🎯In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by strong communication abilitis. </p>
 
 Technical Skills
 ------
@@ -33,7 +33,7 @@ Technical Skills
 Leadership & Activities
 ------
 <span style='text-align: justify;'>
-📚   I presented the <b>Wifi Data Leakage Detection</b> paper at the IETET conference and received the prestigious <b>Best Paper Award</b> among 150 teams.
+📚&#160;I presented the <b>Wifi Data Leakage Detection</b> paper at the IETET conference and received the prestigious <b>Best Paper Award</b> among 150 teams.
 </span> <br>
 <span style='text-align: justify;'>
 🔖   As a <b>Squad Leader</b>, I provided leadership by conducting standups, facilitating technical discussions, and coordinating Ramp-ups for new team members.
