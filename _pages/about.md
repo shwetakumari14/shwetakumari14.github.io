@@ -20,6 +20,9 @@ redirect_from:
 👩🏻‍💻 With three years of professional experience as a software engineer, I specialize in developing backend applications, REST APIs, microservices, data pipelines, and internal developer tools. My expertise extends to architectural enhancements, cloud infrastructure design and implementation, and optimizing large-scale applications for seamless performance across distributed systems with robust network infrastructures. </p>
 
 <p style='text-align: justify;'> 
+💻 In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by strong communication abilitis. </p>
+
+<p style='text-align: justify;'> 
 💻 In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by strong communication abilities.
 </p>
 
@@ -34,14 +37,14 @@ Technical Skills
 Leadership & Activities
 ------
 <span style='text-align: justify;'>
-📚 I presented the <b>Wifi Data Leakage Detection</b> paper at the IETET conference and received the prestigious <b>Best Paper Award</b> among 150 teams.
+📚&nbsp;I presented the <b>Wifi Data Leakage Detection</b> paper at the IETET conference and received the prestigious <b>Best Paper Award</b> among 150 teams.
 </span> <br><br>
 <span style='text-align: justify;'>
-🔖 As a <b>Squad Leader</b>, I provided leadership by conducting standups, facilitating technical discussions, and coordinating Ramp-ups for new team members.
+🔖&nbsp;As a <b>Squad Leader</b>, I provided leadership by conducting standups, facilitating technical discussions, and coordinating Ramp-ups for new team members.
 </span> <br>
 <span style='text-align: justify;'>
-🦸🏻‍♀️ I participated in the <b>AnitaB.org Grace Hopper Celebration (GHC) </b> in <b>2022</b> and will also be attending the <b>2023</b> event. I also took on the role of a mentor for <b>Women In Engineering</b>.
+🦸🏻‍♀️&nbsp;I participated in the <b>AnitaB.org Grace Hopper Celebration (GHC) </b> in <b>2022</b> and will also be attending the <b>2023</b> event. I also took on the role of a mentor for <b>Women In Engineering</b>.
 </span> <br>
 <span style='text-align: justify;'>
-🎨 I organized and managed my college's cultural fest in my junior year, displaying my strong passion for art and craft. I also secured the 2nd place in a state-level drawing competition.
+🎨&nbsp;I organized and managed my college's cultural fest in my junior year, displaying my strong passion for art and craft. I also secured the 2nd place in a state-level drawing competition.
 </span> <br>
