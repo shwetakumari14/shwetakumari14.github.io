@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<center>
+<img src="/images/Portfolio.png" alt="USC logo" style="height: 100%; width:100%; background-size: cover"/>
+</center>
+
 <p style='text-align: justify;'> 
 🙇🏻‍♀️ As a Master of Science student in Computer Science at USC's Viterbi School of Engineering, I bring a wealth of experience and knowledge to the table. With over two and half years of professional experience as a Data Scientist in the real-estate industry, I am well-versed in advanced analytics, machine learning, language modeling, and computer vision. My expertise in these areas, combined with my ability to solve complex problems through data, has led to the publication of 17 research papers in top-tier conferences and journals with over 300 citations.
 </p>
