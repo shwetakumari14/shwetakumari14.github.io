@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shweta Kumari"
+title: "👋🏻 Hi there, I'm Shweta Kumari"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
