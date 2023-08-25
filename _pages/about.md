@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <center>
-<img src="/images/Portfolio.png" alt="USC logo" style="height: 100%; width:100%; background-size: cover"/>
+<img src="/images/banner.png" alt="banner logo" style="height: 100%; width:100%; background-size: cover"/>
 </center>
 
 <p style='text-align: justify;'> 
