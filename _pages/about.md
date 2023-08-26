@@ -69,7 +69,7 @@ Leadership & Activities
     <li><b>Tools & Technologies:</b> Docker, RabbitMQ, Redis, Jenkins, Git, Datadog, Jira, Rancher, Postman, Kibana</li>
     <li><b>Databases:</b> MySQL, Cassandra, Postgres, MongoDB, SQLite</li>
     <li><b>Cloud Platforms:</b> AWS (S3 & DynamoDB)</li>
-    <li><b>Operating Systems:</<b>> Linux, macOS, Windows</li>
+    <li><b>Operating Systems:</b> Linux, macOS, Windows</li>
   </ul>
 
   <b style="font-size: 20px;">Leadership & Activities</b>
