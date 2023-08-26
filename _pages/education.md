@@ -69,7 +69,7 @@ author_profile: true
             </div>
             <span style="float: right;">Los Angeles, USA</span>
         </div>
-        <b style="font-size:20px;">Master of Science in Computer Science</b>
+        <b style="font-size:20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Computer Science</b>
         <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
         <b style="font-size:20px;">Major Coursework</b>
