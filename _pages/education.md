@@ -39,6 +39,7 @@ author_profile: true
     </div>
 </div>
 <br>
+
 <div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 100%; margin-bottom: 20px;" 
      onmouseover="this.style.boxShadow='0 8px 16px 0 rgba(0,0,0,0.2)';" 
      onmouseout="this.style.boxShadow='0 4px 8px 0 rgba(0,0,0,0.2)';">
