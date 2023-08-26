@@ -64,12 +64,12 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <img src="/images/logo1.png" 
-                     alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
+                     alt="usc logo" style="height: 100px; width:100px; padding:5px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
                 <b><a href="https://www.usc.edu" style="text-decoration: none;  color:#4d5052; font-size:20px;">University of Southern California</a></b>
             </div>
             <span style="float: right;">Los Angeles, USA</span>
         </div>
-        <b style="font-size:20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Computer Science</b>
+        <b style="font-size:20px;">Master of Science in Computer Science</b>
         <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
         <b style="font-size:20px;">Major Coursework</b>
@@ -98,26 +98,30 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <img src="/images/logo2.png" 
-                     alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
-                <b><a href="https://www.usc.edu" style="text-decoration: none; color: #0096FF;">University of Southern California</a></b>
+                     alt="usc logo" style="height: 100px; width:100px; padding:5px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
+                <b><a href="http://www.ipu.ac.in/" style="text-decoration: none;  color:#4d5052; font-size:20px;">Guru Gobind Singh Indraprastha University</a></b>
             </div>
-            <span style="float: right;">Los Angeles, USA</span>
+            <span style="float: right;">New Delhi, India</span>
         </div>
-        <br>
-        <b>Master of Science in Computer Science</b>
-        <span style="float: right;">Aug 2022 - May 2024</span>
+        <b style="font-size:20px;">Bachelor of Technology in Computer Science and Engineering</b>
+        <span style="float: right;">Aug 2015 - May 2019</span>
         <br><br>
-        <b>Major Courseworks</b>
-        <span style="float: right;">GPA: 3.6/4.0</span>
+        <b style="font-size:20px;">Major Coursework</b>
+        <span style="float: right;">GPA: 9.4/10</span>
         <ul>
-            <li>Analysis of Algorithms (CSCI 570)</li>
-            <li>Database Systems (CSCI 571)</li>
-            <li>Web Technologies (CSCI 571)</li>
-            <li>Applied Natural Language Processing (CSCI 544)</li>
-            <li>Advanced Mobile Devices and Games (CSCI 526)</li>
-            <li>Information Retrieval and Web Search Engines (CSCI 572)</li>
+            <li>Data Structures and Algorithms</li>
+            <li>Operating Systems</li>
+            <li>Computer Networks</li>
+            <li>Computer Architecture</li>
+            <li>Software Engineering</li>
+            <li>Programming Languages: C, C++, Java, Python</li>
         </ul>
-        <br>
-        <b>Roles and Responsibilities</b>
+        <b style="font-size:20px;">Roles and Responsibilities</b>
+        <ul>
+            <li>I was awarded the <b>Prime Minister Merit Scholarship</b> in recognition of my outstanding academic achievements.</li>
+            <li>I led my team in developing a final year project on Wifi Data Leakage Detection, which earned us the <b>Best Paper Award</b> at the IETET conference.</li>
+            <li>In my junior year, I served as the <b>Cultural Head</b>, overseeing the organization and execution of the cultural fest, which I managed and executed successfully.</li>
+             <li>I actively participated in college-level hackathons and technical competitions as a member of various technical societies.</li>
+        </ul>
     </div>
 </div>
