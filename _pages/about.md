@@ -65,7 +65,7 @@ Leadership & Activities
 
   <b style="font-size: 24px;">Technical Skills</b>
   <ul style="list-style-type: none; margin-left: 0; padding-left: 0px;">
-    <li><b>Programming Languages:</b> Go, Python, C++, Java, PHP, HTML, CSS, Javascript, Angular</li>
+    <li><b>Programming Languages:</b> Go, Python, C++, Java, PHP, HTML, CSS, Javascript, AngularJS</li>
     <li><b>Tools & Technologies:</b> Docker, RabbitMQ, Redis, Jenkins, Git, Datadog, Jira, Rancher, Postman, Kibana</li>
     <li><b>Databases:</b> MySQL, Cassandra, Postgres, MongoDB, SQLite</li>
     <li><b>Cloud Platforms:</b> AWS (S3 & DynamoDB)</li>
