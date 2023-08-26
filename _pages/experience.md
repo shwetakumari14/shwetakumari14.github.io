@@ -20,8 +20,8 @@ author_profile: true
         <b style="font-size:20px;">Software Engineer Intern</b>
         <span style="float: right;">June 2023 - Aug 2023</span>
         <br><br>
-        <b style="text-align: justify;">Roles and Responsibilities</b>
-        <ul>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
             <li>Implemented document security measures by establishing controlled access and enforcing authentication protocols for document retrieval.</li>
             <li>Automated the process of updating access rights for various document types, resulting in a <b>25%</b> reduction in manual effort.</li>
             <li>Created a backup eLife application to assist agents in gathering customer information in case the original app becomes inaccessible.</li>
@@ -45,8 +45,8 @@ author_profile: true
         <b style="font-size:20px;">Senior Software Engineer</b>
         <span style="float: right;">Nov 2021 - July 2022</span>
         <br><br>
-        <b style="text-align: justify;">Roles and Responsibilities</b>
-        <ul>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
             <li>Enhanced user cab bookings backend and network architecture, resulting in a <b>50%</b> performance boost and fewer network calls.</li>
             <li>Integrated multi-cluster Kafka for vehicle bookings, leading to a <b>40%</b> faster response time through parallel processing.</li>
             <li>Reduced payment transaction failures by 60% by creating a single streamlined service at the client’s end to handle all cases.</li>
@@ -71,8 +71,8 @@ author_profile: true
         <b style="font-size:20px;">Software Engineer</b>
         <span style="float: right;">Dec 2020 - Oct 2021</span>
         <br><br>
-        <b style="text-align: justify;">Roles and Responsibilities</b>
-        <ul>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
             <li>Optimized MongoDB queries, achieving a <b>30%</b> database load reduction using compound indexes and projections.</li>
             <li>Developed a CRM system with user-facing pipelines enabling custom features, leading to enhanced user retention.</li>
             <li>Implemented API test cases for performing automatic code sanity when the project is deployed using Jenkins and Rancher.</li>
@@ -97,8 +97,8 @@ author_profile: true
         <b style="font-size:20px;">Associate Engineer</b>
         <span style="float: right;">June 2019 - Nov 2020</span>
         <br><br>
-        <b style="text-align: justify;">Roles and Responsibilities</b>
-        <ul>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
             <li>Built an in-house <b>Dynamic Image Resizing Service</b> with CDN and load balancing, scaling to handle <b>million</b> daily requests.</li>
             <li>Incorporated go concurrency patterns and RabbitMQ for asynchronous processing within a distributed network architecture, resulting in a significant reduction of image upload service time from <b>400ms to 40ms</b>.</li>
             <li>Integrated AWS S3 and Dynamo DB for services and wrote scripts for achieving automatic error reporting during network downtime.</li>
