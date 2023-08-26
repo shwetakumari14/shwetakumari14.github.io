@@ -50,7 +50,7 @@ author_profile: true
             <li>Enhanced user cab bookings backend and network architecture, resulting in a <b>50%</b> performance boost and fewer network calls.</li>
             <li>Integrated multi-cluster Kafka for vehicle bookings, leading to a <b>40%</b> faster response time through parallel processing.</li>
             <li>Reduced payment transaction failures by 60% by creating a single streamlined service at the client’s end to handle all cases.</li>
-            <li>Reduced payment transaction failures by 60% by creating a single streamlined service at the client’s end to handle all cases.</li>
+            <li>Restructured interconnected service backends to establish a low-latency architecture, resulting in reduced errors.</li>
         </ul>
     </div>
 </div>
