@@ -13,7 +13,7 @@ author_profile: true
             <div>
                 <a href="https://www.newyorklife.com/"><img src="/images/logo3.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="https://www.newyorklife.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">New York Life Insurance</a></b>
+                <b><a href="https://www.newyorklife.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">New York Life Insurance</a></b>
             </div>
             <span style="float: right;">New York, USA</span>
         </div>
@@ -38,7 +38,7 @@ author_profile: true
             <div>
                 <a href="https://makemytrip.com/"><img src="/images/logo4.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="https://makemytrip.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">MakeMyTrip</a></b>
+                <b><a href="https://makemytrip.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">MakeMyTrip</a></b>
             </div>
             <span style="float: right;">Gurgaon, India</span>
         </div>
@@ -64,7 +64,7 @@ author_profile: true
             <div>
                 <a href="https://www.brevo.com/"><img src="/images/logo5.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="https://www.brevo.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">Sendinblue (is now Brevo)</a></b>
+                <b><a href="https://www.brevo.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">Sendinblue (is now Brevo)</a></b>
             </div>
             <span style="float: right;">Noida, India</span>
         </div>
@@ -90,7 +90,7 @@ author_profile: true
             <div>
                 <a href="https://www.indiamart.com/"><img src="/images/logo6.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="https://www.indiamart.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">IndiaMart Intermesh Ltd</a></b>
+                <b><a href="https://www.indiamart.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">IndiaMart Intermesh Ltd</a></b>
             </div>
             <span style="float: right;">Noida, India</span>
         </div>
