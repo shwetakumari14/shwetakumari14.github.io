@@ -65,17 +65,17 @@ author_profile: true
             <div>
                 <img src="/images/logo1.png" 
                      alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
-                <b><a href="https://www.usc.edu" style="text-decoration: none; color: #0096FF;">University of Southern California</a></b>
+                <b><a href="https://www.usc.edu" style="text-decoration: none;  color:black; font-size:20px;">University of Southern California</a></b>
             </div>
-            <span style="float: right;">Aug 2022 - May 2024</span>
+            <span style="float: right;">Los Angeles, USA</span>
         </div>
         <br>
-        <b>Master of Science in Computer Science</b>
-        <span style="float: right;">Los Angeles, USA</span>
+        <b style="font-size:20px;">Master of Science in Computer Science</b>
+        <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
-        <b>Major Courseworks</b>
+        <b style="font-size:20px;">Major Courseworks</b>
         <span style="float: right;">GPA: 3.6/4.0</span>
-        <ul style="list-style-type: none; padding: 0;">
+        <ul>
             <li>Analysis of Algorithms (CSCI 570)</li>
             <li>Database Systems (CSCI 571)</li>
             <li>Web Technologies (CSCI 571)</li>
@@ -84,7 +84,7 @@ author_profile: true
             <li>Information Retrieval and Web Search Engines (CSCI 572)</li>
         </ul>
         <br>
-        <b>Roles and Responsibilities</b>
+        <b style="font-size:20px;">Roles and Responsibilities</b>
     </div>
 </div>
 <br>
@@ -98,15 +98,15 @@ author_profile: true
                      alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
                 <b><a href="https://www.usc.edu" style="text-decoration: none; color: #0096FF;">University of Southern California</a></b>
             </div>
-            <span style="float: right;">Aug 2022 - May 2024</span>
+            <span style="float: right;">Los Angeles, USA</span>
         </div>
         <br>
         <b>Master of Science in Computer Science</b>
-        <span style="float: right;">Los Angeles, USA</span>
+        <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
         <b>Major Courseworks</b>
         <span style="float: right;">GPA: 3.6/4.0</span>
-        <ul style="list-style-type: none; padding: 0;">
+        <ul>
             <li>Analysis of Algorithms (CSCI 570)</li>
             <li>Database Systems (CSCI 571)</li>
             <li>Web Technologies (CSCI 571)</li>
