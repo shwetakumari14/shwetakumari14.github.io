@@ -63,9 +63,9 @@ author_profile: true
     <div style="padding: 10px 20px;">
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
-                <img src="https://i.pinimg.com/736x/65/c0/1f/65c01fd960edff474ed8a26280391638--university-of-south-usc-trojans.jpg" 
+                <img src="/images/logo1.png" 
                      alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
-                <b>[University of Southern California](https://www.usc.edu)</b>
+                <b><a href="https://www.usc.edu" style="text-decoration: none; color: #0096FF;">University of Southern California</a></b>
             </div>
             <span style="float: right;">Aug 2022 - May 2024</span>
         </div>
@@ -94,9 +94,9 @@ author_profile: true
     <div style="padding: 10px 20px;">
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
-                <img src="https://i.pinimg.com/736x/65/c0/1f/65c01fd960edff474ed8a26280391638--university-of-south-usc-trojans.jpg" 
+                <img src="/images/logo2.png" 
                      alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
-                <b><a href="https://www.usc.edu" style="text-decoration: none; color: black;">University of Southern California</a></b>
+                <b><a href="https://www.usc.edu" style="text-decoration: none; color: #0096FF;">University of Southern California</a></b>
             </div>
             <span style="float: right;">Aug 2022 - May 2024</span>
         </div>
