@@ -12,7 +12,7 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <a href="https://www.newyorklife.com/"><img src="/images/logo3.png" 
-                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 10%; background-size: cover; vertical-align:middle;"/></a>
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://www.newyorklife.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">New York Life Insurance</a></b>
             </div>
             <span style="float: right;">New York, USA</span>
@@ -37,7 +37,7 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <a href="https://makemytrip.com/"><img src="/images/logo4.png" 
-                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 10%; background-size: cover; vertical-align:middle;"/></a>
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://makemytrip.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">MakeMyTrip</a></b>
             </div>
             <span style="float: right;">Gurgaon, India</span>
@@ -49,7 +49,8 @@ author_profile: true
         <ul>
             <li>Enhanced user cab bookings backend and network architecture, resulting in a <b>50%</b> performance boost and fewer network calls.</li>
             <li>Integrated multi-cluster Kafka for vehicle bookings, leading to a <b>40%</b> faster response time through parallel processing.</li>
-            <li>Streamlined services to optimize payment transactions and significantly reduce failure rates.</li>
+            <li>Reduced payment transaction failures by 60% by creating a single streamlined service at the client’s end to handle all cases.</li>
+            <li>Reduced payment transaction failures by 60% by creating a single streamlined service at the client’s end to handle all cases.</li>
         </ul>
     </div>
 </div>
@@ -62,7 +63,7 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <a href="https://www.brevo.com/"><img src="/images/logo5.png" 
-                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 10%; background-size: cover; vertical-align:middle;"/></a>
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://www.brevo.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">Sendinblue (is now Brevo)</a></b>
             </div>
             <span style="float: right;">Noida, India</span>
@@ -75,6 +76,7 @@ author_profile: true
             <li>Optimized MongoDB queries, achieving a <b>30%</b> database load reduction using compound indexes and projections.</li>
             <li>Developed a CRM system with user-facing pipelines enabling custom features, leading to enhanced user retention.</li>
             <li>Implemented API test cases for performing automatic code sanity when the project is deployed using Jenkins and Rancher.</li>
+            <li>Utilizing Datadog and <b>Kibana (Elastic Search)</b> for effective logging and process monitoring accross all the applications.</li>
         </ul>
     </div>
 </div>
@@ -87,7 +89,7 @@ author_profile: true
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
                 <a href="https://www.indiamart.com/"><img src="/images/logo6.png" 
-                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 10%; background-size: cover; vertical-align:middle;"/></a>
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://www.indiamart.com/" style="text-decoration: none;  color:#4d5052; font-size:20px;">IndiaMart Intermesh Ltd</a></b>
             </div>
             <span style="float: right;">Noida, India</span>
