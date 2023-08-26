@@ -15,10 +15,10 @@ author_profile: true
             </div>
             <span style="float: right;">June 2023</span>
         </div>
-        <span style="float: right;"><a href="https://arxiv.org/pdf/2306.05652.pdf" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">[PDF] from arxiv.org</a></span>
+        <span style="float: right;"><a href="https://arxiv.org/pdf/2306.05652.pdf" style="text-decoration: underline #89CFF0;  color:#0096FF;">[PDF] from arxiv.org</a></span>
         <br><br>
         <b>Abstract</b>
-        <p style="text-align: justify;">Social media platforms have helped people with mental illnesses share their experiences and find online support. But they often lack proper clinical help. We suggest using AI to screen posts and identify mental health risks. We used a model to assess risks and made sure it respects privacy. Our results show this approach works well for mental health assessment and privacy protection. This could lead to better diagnostic tools.</p>
+        <p style="text-align: justify;">Social media lets people with mental health issues share their experiences and find support online. But some don't get proper clinical help, making things worse. Checking what users post online could help provide targeted care and reduce mistakes. Language models can analyze social media and classify mental health risk. We suggest a way to do this using a question-answering approach and protecting user data with privacy measures. Our results show this works well and could lead to better privacy-focused tools for mental health assessment.</p>
     </div>
 </div>
 <br>
@@ -33,7 +33,7 @@ author_profile: true
             </div>
             <span style="float: right;">June 2019</span>
         </div>
-        <span style="float: right;"><a href="https://www.jetir.org/papers/JETIRCO06025.pdf" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">[PDF] from jetir</a></span>
+        <span style="float: right;"><a href="https://www.jetir.org/papers/JETIRCO06025.pdf" style="text-decoration: underline #89CFF0;  color:#0096FF;">[PDF] from jetir</a></span>
         <br><br>
         <b>Abstract</b>
         <p style="text-align: justify;">The paper explains how someone can understand a user's actions from their Wi-Fi activity without breaking encryption. It shows that even without direct access, an outside observer can figure out what's being sent. When we use apps on our phones, they create patterns in network traffic. This pattern gives away some info, like when apps update. While encryption protects the data content, these patterns can still leak details like packet size and timing. This could be used to steal private information, even if data is encrypted. This is a concern with wireless communications, especially with long-range ones, as outsiders can track and analyze this data.</p>
