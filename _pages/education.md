@@ -65,15 +65,14 @@ author_profile: true
             <div>
                 <img src="/images/logo1.png" 
                      alt="usc logo" style="height: 60px; width:60px; border-radius: 50%; background-size: cover; vertical-align:middle;"/>
-                <b><a href="https://www.usc.edu" style="text-decoration: none;  color:black; font-size:20px;">University of Southern California</a></b>
+                <b><a href="https://www.usc.edu" style="text-decoration: none;  color:#4d5052; font-size:20px;">University of Southern California</a></b>
             </div>
             <span style="float: right;">Los Angeles, USA</span>
         </div>
-        <br>
         <b style="font-size:20px;">Master of Science in Computer Science</b>
         <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
-        <b style="font-size:20px;">Major Courseworks</b>
+        <b style="font-size:20px;">Major Coursework</b>
         <span style="float: right;">GPA: 3.6/4.0</span>
         <ul>
             <li>Analysis of Algorithms (CSCI 570)</li>
@@ -83,8 +82,12 @@ author_profile: true
             <li>Advanced Mobile Devices and Games (CSCI 526)</li>
             <li>Information Retrieval and Web Search Engines (CSCI 572)</li>
         </ul>
-        <br>
         <b style="font-size:20px;">Roles and Responsibilities</b>
+        <ul>
+            <li>Currently serving as a <b>Full Stack Student Software Developer</b> at the Southern California Earthquake Center (SCEC), responsible for developing backend APIs, webpages, and application forms.</li>
+            <li>I worked at USC Information Technology Services as a <b>Student Technical Assistant</b>, addressing technical issues related to software and equipment across the campus.</li>
+            <li>I mentored junior students and fellow women engineers through the <b>Women in Engineering</b> program, providing guidance and support to enhance their careers and learning journeys.</li>
+        </ul>
     </div>
 </div>
 <br>
