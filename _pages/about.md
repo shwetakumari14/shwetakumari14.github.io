@@ -15,7 +15,7 @@ redirect_from:
 
 <div style="padding: 10px 20px; text-align: justify;">
   <p style="margin-bottom: 20px;">
-    👩🏻‍🎓 A driven and motivated graduate student at the University of Southern California, pursuing a Master of Science in Computer Science. With a solid foundation in the field, I am set to graduate in <b>May 2024</b>. I completed my undergraduate studies in Computer Science and Engineering at Guru Gobind Singh Indraprastha University, achieving the highest rank in my class.
+    👩🏻‍🎓 A driven and motivated Master of Science student in Computer Science at the University of Southern California.  With a solid foundation in the field, I am set to graduate in <b>May 2024</b>.
   </p>
 
   <p style="margin-bottom: 20px;">
@@ -23,7 +23,7 @@ redirect_from:
   </p>
 
   <p style="margin-bottom: 20px;">
-    🎯 In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by strong communication abilities.
+    🎯 In addition to technical proficiency, I possess comprehensive end-to-end project management skills. My strengths encompass requirement planning, design, development, testing, deployment, and maintenance. As a Squad lead, I've demonstrated proficiency in Agile task management for streamlined project execution. I also have a track record of conducting technical workshops and seminars, supported by solid communication abilities.
   </p>
 
   <b style="font-size: 24px;">Technical Skills</b>
@@ -40,6 +40,6 @@ redirect_from:
     <li><span style="text-align: justify;">📚 I presented the <b>Wifi Data Leakage Detection</b> paper at the IETET conference and received the prestigious <b>Best Paper Award</b> among 150 teams.</span></li>
     <li><span style="text-align: justify;">🔖 As a <b>Squad Leader</b>, I provided leadership by conducting standups, facilitating technical discussions, and coordinating Ramp-ups for new team members.</span></li>
     <li><span style="text-align: justify;">🦸🏻‍♀️ I participated in the <b>AnitaB.org Grace Hopper Celebration (GHC)</b> in <b>2022</b> and will also be attending the <b>2023</b> event. I also took on the role of a mentor for <b>Women In Engineering</b>.</span></li>
-    <li><span style="text-align: justify;">🎨 I organized and managed my college's cultural fest in my junior year, displaying my strong passion for art and craft. I also secured the 2nd place in a state-level drawing competition.</span></li>
+    <li><span style="text-align: justify;">🎨 I organized and managed my college's cultural fest in my junior year, displaying my passion for art and craft. I also secured the 2nd place in a state-level drawing competition.</span></li>
   </ul>
 </div>

@@ -21,7 +21,7 @@ author_profile: true
             <li>Created a TicketMaster booking application using AngularJS for the frontend and NodeJS for the backend.</li>
             <li>The app allows users to search for events using different filters, with the backend retrieving filtered results from the TicketMaster API. </li>
             <li>It includes features like autocomplete and sorting for results, and users can add events to their favorites.</li>
-            <li>Additionally, a NodeJS API is implemented to fetch artists data in parallel, ensuring low latency within the application.</li>
+            <li>Additionally, a NodeJS API is implemented to fetch artists' data in parallel, ensuring low latency within the application.</li>
         </ul>
     </div>
 </div>
@@ -41,8 +41,7 @@ author_profile: true
         <br>
         <ul style="text-align: justify;">
             <li>Improved the process of creating and managing API documentation by creating an internal centralized tool using Swagger Editor, Swagger UI, and Open API Specifications.</li>
-            <li>The backend of the tool was developed with Python, SQLite, Postgres, and GitLab was utilized for version control.</li>
-            <li>This initiative effectively addressed issues such as redundancy, incomplete documentation, and the challenge of locating specific documents.</li>
+            <li>This initiative effectively addressed redundancy, incomplete documentation, and difficulty locating specific documents..</li>
         </ul>
     </div>
 </div>
@@ -61,9 +60,8 @@ author_profile: true
         <span><b>Technologies: </b> Go, RabbitMQ, Redis, Docker, Containers, AWS, DynamoDB, Postgres</span>
         <br>
         <ul style="text-align: justify;">
-            <li>Revamped the architecture and infrastructure of the image upload service, previously taking around 400ms for completion.</li>
+            <li>Revamped the architecture and infrastructure of the image upload service, previously taking around 400ms to complete.</li>
             <li>Utilizing Golang for parallel processing, RabbitMQ for background metadata handling, DynamoDB for temporary metadata storage, and AWS for cloud-based image storage, user experience saw substantial enhancements.</li>
-            <li>Using a Golang procedure, fifteen parallel goroutines were created to synchronize data into the respective databases based on these IDs.</li>
             <li>This optimized strategy enhanced user experience during image uploads, ensuring a seamless journey within milliseconds, thereby reducing image service time from <b>400ms to 40ms</b>.</li>
         </ul>
     </div>
@@ -83,9 +81,9 @@ author_profile: true
         <span><b>Technologies: </b> Go, RabbitMQ, Docker, Containers, MySQL, Postgres, Cassandra</span>
         <br>
         <ul style="text-align: justify;">
-            <li>The project's objective was to identify and rectify unsynchronized user data across fifteen distinct databases daily.</li>
+            <li>The project aimed to identify and rectify unsynchronized user data across fifteen databases daily.</li>
             <li>This involved implementing a scheduled cron job to identify user IDs updated within the last 24 hours. </li>
-            <li>Using a Golang procedure, fifteen parallel goroutines were created to synchronize data into the respective databases based on these IDs.</li>
+            <li>Using a Golang procedure, I executed fifteen parallel goroutines to synchronize data into the respective databases based on these IDs.</li>
             <li>This solution effectively mitigated the problem of data unsynchronization.</li>
         </ul>
     </div>
@@ -105,9 +103,9 @@ author_profile: true
         <span><b>Technologies: </b> PHP, Go, RabbitMQ, MYSQL, Postgres</span>
         <br>
         <ul style="text-align: justify;">
-            <li>Enhancing user authenticity, a method was devised to identify potential paid sellers on Indiamart by validating their GST information.</li>
-            <li>This involved extracting GSTs from both a third-party API and MasterIndia API, utilizing parallel processes to identify the best-matched GST for users, and subsequently allocating verified GSTs to users.</li>
-            <li>This initiative resulted in a notable <b>20%</b> surge in the number of paid sellers.</li>
+            <li>To validate the GST information of potential paid sellers on Indiamart, we developed a method to enhance user authenticity.</li>
+            <li>It involved extracting GSTs from both a third-party API and MasterIndia API, utilizing parallel processes to identify the best-matched GST for users, and allocating verified GSTs to users.</li>
+            <li>This initiative resulted in a notable <b>20%</b> surge in paid sellers.</li>
         </ul>
     </div>
 </div>

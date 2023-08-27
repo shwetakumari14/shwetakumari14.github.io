@@ -33,8 +33,8 @@ author_profile: true
         <b style="font-size:20px;">Roles and Responsibilities</b>
         <ul style="text-align: justify;">
             <li>Currently serving as a <b>Full Stack Student Software Developer</b> at the Southern California Earthquake Center (SCEC), responsible for developing backend APIs, webpages, and application forms.</li>
-            <li>I worked at USC Information Technology Services as a <b>Student Technical Assistant</b>, addressing technical issues related to software and equipment across the campus.</li>
-            <li>I mentored junior students and fellow women engineers through the <b>Women in Engineering</b> program, providing guidance and support to enhance their careers and learning journeys.</li>
+            <li>Worked at USC Information Technology Services as a <b>Student Technical Assistant</b>, addressing technical issues related to software and equipment across the campus.</li>
+            <li>Mentored junior students and fellow women engineers through the <b>Women in Engineering</b> program, providing guidance and support to enhance their careers and learning journeys.</li>
         </ul>
     </div>
 </div>
@@ -67,10 +67,10 @@ author_profile: true
         </ul>
         <b style="font-size:20px;">Roles and Responsibilities</b>
         <ul style="text-align: justify;">
-            <li>I was awarded the <b>Prime Minister Merit Scholarship</b> in recognition of my outstanding academic achievements.</li>
-            <li>I led my team in developing a final year project on Wifi Data Leakage Detection, which earned us the <b>Best Paper Award</b> at the IETET conference.</li>
+            <li>Awarded the <b>Prime Minister Merit Scholarship</b> for my outstanding academic achievements.</li>
+            <li>Led my team in developing a final-year project on Wi-Fi data Leakage Detection, which earned us the <b>Best Paper Award</b> at the IETET conference.</li>
             <li>In my junior year, I served as the <b>Cultural Head</b>, overseeing the organization and execution of the cultural fest, which I managed and executed successfully.</li>
-             <li>I actively participated in college-level hackathons and technical competitions as a member of various technical societies.</li>
+             <li>Actively participated in college-level hackathons and technical competitions as a member of various technical societies.</li>
         </ul>
     </div>
 </div>

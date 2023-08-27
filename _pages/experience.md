@@ -75,8 +75,8 @@ author_profile: true
         <ul style="text-align: justify;">
             <li>Optimized MongoDB queries, achieving a <b>30%</b> database load reduction using compound indexes and projections.</li>
             <li>Developed a CRM system with user-facing pipelines enabling custom features, leading to enhanced user retention.</li>
-            <li>Implemented API test cases for performing automatic code sanity when the project is deployed using Jenkins and Rancher.</li>
-            <li>Utilizing Datadog and <b>Kibana (Elastic Search)</b> for effective logging and process monitoring accross all the applications.</li>
+            <li>Implemented API test cases for performing automatic code sanity while deploying using Jenkins and Rancher.</li>
+            <li>Utilized Datadog and Kibana (Elastic Search) for effective logging and process monitoring across all the applications.</li>
         </ul>
     </div>
 </div>
@@ -99,10 +99,10 @@ author_profile: true
         <br><br>
         <b>Roles and Responsibilities</b>
         <ul style="text-align: justify;">
-            <li>Built an in-house <b>Dynamic Image Resizing Service</b> with CDN and load balancing, scaling to handle <b>million</b> daily requests.</li>
-            <li>Incorporated go concurrency patterns and RabbitMQ for asynchronous processing within a distributed network architecture, resulting in a significant reduction of image upload service time from <b>400ms to 40ms</b>.</li>
+            <li>Built an in-house <b>Dynamic Image Resizing Service</b> with CDN and load balancing, scaling to handle <b>millions</b> of daily requests.</li>
+            <li>Incorporated go concurrency patterns and RabbitMQ for asynchronous processing within a distributed network architecture, significantly reducing image upload service time from <b>400ms to 40ms</b>.</li>
             <li>Integrated AWS S3 and Dynamo DB for services and wrote scripts for achieving automatic error reporting during network downtime.</li>
-            <li>Worked on creating architectural solutions for complex applications by making them distributed and running things parallelly.</li>
+            <li>Worked on creating architectural solutions for complex applications by distributing them and running things parallelly.</li>
         </ul>
     </div>
 </div>
