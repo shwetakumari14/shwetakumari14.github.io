@@ -41,7 +41,7 @@ author_profile: true
         <br>
         <ul style="text-align: justify;">
             <li>Improved the process of creating and managing API documentation by creating an internal centralized tool using Swagger Editor, Swagger UI, and Open API Specifications.</li>
-            <li>This initiative effectively addressed redundancy, incomplete documentation, and difficulty locating specific documents..</li>
+            <li>This initiative effectively addressed redundancy, incomplete documentation, and difficulty locating specific documents.</li>
         </ul>
     </div>
 </div>
