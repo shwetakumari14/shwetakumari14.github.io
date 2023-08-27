@@ -13,7 +13,7 @@ author_profile: true
             <div>
                 <a href="https://www.usc.edu"><img src="/images/logo1.png" 
                      alt="usc logo" style="height: 100px; width:100px; padding:5px; border-radius: 50%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="https://www.usc.edu" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">University of Southern California</a></b>
+                <b><a href="https://www.usc.edu" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">University of Southern California</a></b>
             </div>
             <span style="float: right;">Los Angeles, USA</span>
         </div>
@@ -48,7 +48,7 @@ author_profile: true
             <div>
                 <a href="http://www.ipu.ac.in/"><img src="/images/logo2.png" 
                      alt="usc logo" style="height: 100px; width:100px; padding:5px; border-radius: 50%; background-size: cover; vertical-align:middle;"/></a>
-                <b><a href="http://www.ipu.ac.in/" style="text-decoration: none;  color:#4d5052; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#4d5052'; this.style.textDecoration = 'none';">Guru Gobind Singh Indraprastha University</a></b>
+                <b><a href="http://www.ipu.ac.in/" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">Guru Gobind Singh Indraprastha University</a></b>
             </div>
             <span style="float: right;">New Delhi, India</span>
         </div>
