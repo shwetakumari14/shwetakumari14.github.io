@@ -21,7 +21,7 @@ author_profile: true
         <span style="float: right;">Aug 2022 - May 2024</span>
         <br><br>
         <b style="font-size:20px;">Major Coursework</b>
-        <span style="float: right;">GPA: 3.6/4.0</span>
+        <span style="float: right;">GPA: 3.75/4.0</span>
         <ul>
             <li>Analysis of Algorithms (CSCI 570)</li>
             <li>Database Systems (CSCI 571)</li>
@@ -29,6 +29,7 @@ author_profile: true
             <li>Applied Natural Language Processing (CSCI 544)</li>
             <li>Advanced Mobile Devices and Games (CSCI 526)</li>
             <li>Information Retrieval and Web Search Engines (CSCI 572)</li>
+            <li>Security and Privacy in Informatics (DSCI 529)</li>
         </ul>
         <b style="font-size:20px;">Roles and Responsibilities</b>
         <ul style="text-align: justify;">
