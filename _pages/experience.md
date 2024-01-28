@@ -11,6 +11,30 @@ author_profile: true
     <div style="padding: 10px 20px;">
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
+                <a href="https://www.tesla.com/"><img src="/images/logo7.png" 
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
+                <b><a href="https://www.tesla.com/" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">Tesla</a></b>
+            </div>
+            <span style="float: right;">Fremont, CA, USA</span>
+        </div>
+        <b style="font-size:20px;">Software Engineer Intern</b>
+        <span style="float: right;">Jan 2024 - Present</span>
+        <br><br>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
+            <li>As a Backend Engineer on Tesla's Supply Chain Data Analytics team, I am responsible for developing infrastructure to run and optimize ETL pipelines.</li>
+            <li>Contributing to the development of a web application, providing cost-based insights to the GSM team.</li>
+        </ul>
+    </div>
+</div>
+<br>
+
+<div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 100%; margin-bottom: 20px;" 
+     onmouseover="this.style.boxShadow='0 8px 16px 0 rgba(0,0,0,0.2)';" 
+     onmouseout="this.style.boxShadow='0 4px 8px 0 rgba(0,0,0,0.2)';">
+    <div style="padding: 10px 20px;">
+        <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
+            <div>
                 <a href="https://www.newyorklife.com/"><img src="/images/logo3.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://www.newyorklife.com/" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">New York Life Insurance</a></b>
