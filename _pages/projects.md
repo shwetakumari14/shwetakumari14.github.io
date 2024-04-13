@@ -11,7 +11,7 @@ author_profile: true
             <div>
                 <img src="/images/project5.png" 
                      alt="usc logo" style="height: 60px; width:60px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/>
-                 <b><a href="https://web-sh-hw8.uc.r.appspot.com/search" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">Ticketmaster Booking Application</a></b>
+                 <b style="font-size:20px;">Ticketmaster Booking Application</b>
             </div>
         </div>
         <br>

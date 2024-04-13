@@ -22,8 +22,9 @@ author_profile: true
         <br><br>
         <b>Roles and Responsibilities</b>
         <ul style="text-align: justify;">
-            <li>As a Backend Engineer on Tesla's Supply Chain Data Analytics team, I am responsible for developing infrastructure to run and optimize ETL pipelines.</li>
-            <li>Contributing to the development of a web application, providing cost-based insights to the GSM team.</li>
+            <li>Created data pipelines and automated scripts using Airflow to enhance support for supply chain analytics, leading to a <b>60%</b> decrease in manual workload.</li>
+            <li>Led the development of a scalable web app dashboard for Tesla SIEs, transforming the older Tableau dashboard's load time from <b>minutes to just a few seconds</b> for actionable insights and efficient user management.</li>
+            <li>Enhanced supplier scorecard functionality, Implemented Microsoft ADFS M2M authentication for APIs, and optimized Airflow infrastructure for enhanced performance.</li>
         </ul>
     </div>
 </div>
