@@ -15,11 +15,11 @@ redirect_from:
 
 <div style="padding: 10px 20px; text-align: justify;">
   <p style="margin-bottom: 20px;">
-    👩🏻‍🎓 A driven and motivated Master of Science student in Computer Science at the University of Southern California.  With a solid foundation in the field, I am set to graduate in May 2024. I am available to start work from <b> July 2024 </b>.
+    👩🏻‍🎓 A driven and motivated Master of Science student in Computer Science at the University of Southern California.  With a solid foundation in the field, I am set to graduate in May 2024. I am available to start work from <b> July 2024</b>.
   </p>
 
   <p style="margin-bottom: 20px;">
-    👩🏻‍💻With four years of professional experience as a software engineer, I specialize in developing backend applications, REST APIs, microservices, data pipelines, and internal developer tools. My expertise extends to architectural enhancements, cloud infrastructure design and implementation, and optimizing large-scale applications for seamless performance across distributed systems with robust network infrastructures.
+    👩🏻‍💻 With four years of professional experience as a software engineer, I specialize in developing backend applications, REST APIs, microservices, data pipelines, and internal developer tools. My expertise extends to architectural enhancements, cloud infrastructure design and implementation, and optimizing large-scale applications for seamless performance across distributed systems with robust network infrastructures.
   </p>
 
   <p style="margin-bottom: 20px;">
