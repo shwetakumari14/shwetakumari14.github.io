@@ -22,8 +22,8 @@ author_profile: true
         <br><br>
         <b>Roles and Responsibilities</b>
         <ul style="text-align: justify;">
-            <li>Developing scalable and reusable software applications with a focus on API design for NYL's client communication platforms.</li>s
-            <li>Building a digital notification system that enhances user experience, drives transaction growth, and minimizes client support calls.</li>s
+            <li>Developing scalable and reusable software applications with a focus on API design for NYL's client communication platforms.</li>
+            <li>Building a digital notification system that enhances user experience, drives transaction growth, and minimizes client support calls.</li>
         </ul>
     </div>
 </div>
