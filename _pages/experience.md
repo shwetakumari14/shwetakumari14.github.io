@@ -11,6 +11,30 @@ author_profile: true
     <div style="padding: 10px 20px;">
         <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
             <div>
+                <a href="https://www.newyorklife.com/"><img src="/images/logo3.png" 
+                     alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
+                <b><a href="https://www.newyorklife.com/" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">New York Life Insurance</a></b>
+            </div>
+            <span style="float: right;">New York, USA</span>
+        </div>
+        <b style="font-size:20px;">Software Engineer</b>
+        <span style="float: right;">July 2024 - Present</span>
+        <br><br>
+        <b>Roles and Responsibilities</b>
+        <ul style="text-align: justify;">
+            <li>Developing scalable and reusable software applications with a focus on API design for NYL's client communication platforms.</li>s
+            <li>Building a digital notification system that enhances user experience, drives transaction growth, and minimizes client support calls.</li>s
+        </ul>
+    </div>
+</div>
+<br>s
+
+<div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 100%; margin-bottom: 20px;" 
+     onmouseover="this.style.boxShadow='0 8px 16px 0 rgba(0,0,0,0.2)';" 
+     onmouseout="this.style.boxShadow='0 4px 8px 0 rgba(0,0,0,0.2)';">
+    <div style="padding: 10px 20px;">
+        <div style="padding: 4px 0; display: flex; justify-content: space-between; align-items: center;">
+            <div>
                 <a href="https://www.tesla.com/"><img src="/images/logo7.png" 
                      alt="usc logo" style="height: 80px; width:80px; padding:5px; border-radius: 20%; background-size: cover; vertical-align:middle;"/></a>
                 <b><a href="https://www.tesla.com/" style="text-decoration: none;  color:#0096FF; font-size:20px;" onmouseover="this.style.color = '#0096FF'; this.style.textDecoration = 'underline #89CFF0';" onmouseout="this.style.color = '#0096FF'; this.style.textDecoration = 'none';">Tesla</a></b>
@@ -18,13 +42,13 @@ author_profile: true
             <span style="float: right;">Fremont, CA, USA</span>
         </div>
         <b style="font-size:20px;">Software Engineer Intern</b>
-        <span style="float: right;">Jan 2024 - Present</span>
+        <span style="float: right;">Jan 2024 - May 2024</span>
         <br><br>
         <b>Roles and Responsibilities</b>
         <ul style="text-align: justify;">
-            <li>Created data pipelines and automated scripts using Airflow to enhance support for supply chain analytics, leading to a <b>60%</b> decrease in manual workload.</li>
-            <li>Led the development of a scalable web app dashboard for Tesla SIEs, transforming the older Tableau dashboard's load time from <b>minutes to just a few seconds</b> for actionable insights and efficient user management.</li>
-            <li>Enhanced supplier scorecard functionality, Implemented Microsoft ADFS M2M authentication for APIs, and optimized Airflow infrastructure for enhanced performance.</li>
+            <li>Implemented Airflow pipelines and automated scripts, reducing manual efforts by <b>60%</b> in supporting supply chain analytics.</li>
+            <li>Developed a scalable web application for Tesla SIEs, reducing load time from <b>minutes to seconds</b> for efficient user management.</li>
+            <li>Improved supplier scorecard functionality, implemented Microsoft M2M authentication for APIs, and optimized Airflow infrastructure.</li>
         </ul>
     </div>
 </div>
